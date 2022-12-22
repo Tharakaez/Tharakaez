@@ -12,6 +12,7 @@
 
 ### Hi there 👋
 ![](https://komarev.com/ghpvc/?username=Tharakaez)
+- 🔭 I’m UI/UX Designer & Frontend Developer
 - 🌱 I’m currently learning <b> Bootstrap, Flutter. </b>
 - 💬 Ask me about <b> UI/UX Design </b>
 - 📫 How to reach me: https://tharakaez.github.io/
