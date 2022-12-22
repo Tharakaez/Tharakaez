@@ -17,6 +17,7 @@
 - 📫 How to reach me: https://tharakaez.github.io/
 <br>
 ### :hammer_and_wrench: Languages and Tools :
+<br>
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/flutter/flutter-original.svg" title="Flutter" alt="Flutter" width="40" height="40"/>&nbsp;
