@@ -1,4 +1,7 @@
 ### Hi there 👋
+- 🌱 I’m currently learning <b> Bootstrap, Flutter. </b>
+- 💬 Ask me about <b> UI/UX Design </b>
+- 📫 How to reach me: https://tharakaez.github.io/
 
 <!--
 **Tharakaez/Tharakaez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
