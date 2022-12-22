@@ -11,6 +11,7 @@
 </div>
 
 ### Hi there 👋
+![](https://komarev.com/ghpvc/?username=Tharakaez)
 - 🌱 I’m currently learning <b> Bootstrap, Flutter. </b>
 - 💬 Ask me about <b> UI/UX Design </b>
 - 📫 How to reach me: https://tharakaez.github.io/
